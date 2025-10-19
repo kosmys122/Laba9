@@ -1,4 +1,4 @@
-﻿namespace Laba9class
+﻿namespace Myclass
 {
     public class Person2
     {
